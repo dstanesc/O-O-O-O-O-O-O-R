@@ -1,3 +1,7 @@
+# Discontinued
+
+This project is discontinued. [@ubiquify/relay](https://www.npmjs.com/package/@ubiquify/relay) fork provides a compatible and more advanced implementation. The new relay needs paired with the evolved [@ubiquify/core](https://www.npmjs.com/package/@ubiquify/core).
+
 # O-O-O-O-O-O-O-R
 
 Simple graph relay for [O7](https://github.com/dstanesc/O-O-O-O-O-O-O) library.
